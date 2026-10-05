@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+generated/*.png
+generated/*.jpg
+generated/*.jpeg
+generated/*.pdf
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
