@@ -1,0 +1,169 @@
+body {
+
+    margin: 0;
+
+    font-family: Arial;
+
+    background: #f5f3ff;
+
+}
+
+
+.container {
+
+    width: 90%;
+
+    max-width: 850px;
+
+    margin: auto;
+
+    padding: 40px 0;
+
+}
+
+
+h1 {
+
+    text-align: center;
+
+    font-size: 42px;
+
+}
+
+
+.container > p {
+
+    text-align: center;
+
+    color: #666;
+
+}
+
+
+.form-box {
+
+    background: white;
+
+    padding: 30px;
+
+    border-radius: 20px;
+
+    box-shadow:
+    0 10px 30px
+    rgba(0,0,0,0.1);
+
+}
+
+
+label {
+
+    display: block;
+
+    margin-top: 18px;
+
+    font-weight: bold;
+
+}
+
+
+input,
+textarea,
+select {
+
+    width: 100%;
+
+    padding: 12px;
+
+    margin-top: 7px;
+
+    border: 1px solid #ddd;
+
+    border-radius: 8px;
+
+    box-sizing: border-box;
+
+}
+
+
+textarea {
+
+    height: 120px;
+
+}
+
+
+button {
+
+    width: 100%;
+
+    margin-top: 25px;
+
+    padding: 15px;
+
+    background: #6c4cff;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 10px;
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+}
+
+
+#loading {
+
+    display: none;
+
+    text-align: center;
+
+    margin: 25px;
+
+}
+
+
+.panel {
+
+    background: white;
+
+    padding: 20px;
+
+    margin-top: 25px;
+
+    border-radius: 15px;
+
+}
+
+
+.panel img {
+
+    width: 100%;
+
+    border-radius: 10px;
+
+}
+
+
+.download {
+
+    display: block;
+
+    text-align: center;
+
+    background: green;
+
+    color: white;
+
+    padding: 15px;
+
+    margin: 25px auto;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+
+}
