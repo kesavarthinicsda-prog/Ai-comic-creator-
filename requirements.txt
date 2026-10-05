@@ -1,0 +1,14 @@
+
+---
+
+# 2️⃣ `requirements.txt`
+
+```txt
+fastapi
+uvicorn
+google-genai
+python-dotenv
+pydantic
+reportlab
+pillow
+python-multipart
